@@ -4,7 +4,7 @@ using namespace std;
 
 int main() 
 { 
-    cout << "Hello, world!" << endl; //Программа выведет "Привет, мир!"
+    cout << "Hello, world! Have a nice day!" << endl; //Программа выведет "Привет, мир! Хорошего дня!"
     return 0; 
 }
 
