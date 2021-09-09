@@ -1,3 +1,5 @@
+Работу выполнила Нестеренко Тамара, студентка 2 курса группы ПИЖ-б-о-20-1
+
 #include <iostream>
 #include <cstdlib> 
 using namespace std;
