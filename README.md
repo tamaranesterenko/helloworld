@@ -6,7 +6,8 @@ using namespace std;
 
 int main() 
 { 
-    cout << "Hello, world! Have a nice day!" << endl; //Программа выведет "Привет, мир! Хорошего дня!"
-    return 0; 
+   cin >> "Hello!" >> endl;    
+   cout << "Hello, world! Have a nice day!" << endl; //Программа выведет "Привет, мир! Хорошего дня!"
+return 0; 
 }
 ~~~
